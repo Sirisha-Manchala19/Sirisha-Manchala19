@@ -16,7 +16,7 @@ I'm an Information Technology graduate from Swarnandhra College of Engineering a
 - **Other Skills:** Data Structures, Version Control (Git)
 
 ### Projects
-- **[Social Networking Security System](https://github.com/Sirisha-Manchala19/social-networking-security-system):** A project aimed at improving security and privacy on social networking platforms using Python and Django.
+- **[Fake Profile Identification In Social Media](https://github.com/Sirisha-Manchala19/social-networking-security-system):** A project aimed at improving security and privacy on social networking platforms using Python and Django.
 - **Video Editing:** Created and edited several videos for my YouTube channel, enhancing my skills in video production and content creation.
 
 ### Get in touch!
