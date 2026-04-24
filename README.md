@@ -9,7 +9,7 @@ I am an aspiring Java Backend Developer with hands-on experience in building dat
 ---
 ## 🚀 Experience
 
-### 💻 Associate Software Engineer (Trainee)  
+### 💻 Associate Software Engineer 
 **Speshway Solutions Private Limited**  
 - Undergoing training in Full Stack Java development  
 - Learning Core Java, JDBC, and backend development concepts  
