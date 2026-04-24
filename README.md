@@ -1,24 +1,74 @@
-# Hi, I'm Manchala Sirisha! 👋
+# Hi, I'm Manchala Sirisha 👩‍💻
 
-### About Me
-I'm an Information Technology graduate from Swarnandhra College of Engineering and Technology. I am passionate about learning new technologies and continuously improving my skills, especially in Python, data science, and AI.
+🎓 B.Tech Information Technology Graduate (2024)  
+📍 Hyderabad, India  
 
-- 🌍  I'm from Palakol, Andhra Pradesh, and currently based in Hyderabad.
-- 🎓  I graduated in 2024 with a major in IT.
-- 🔭  I'm currently working on a cloud virtual internship and a project that focuses on improving security and privacy in social networking platforms using Python and Django.
-- 🌱  I’m learning more about Data Science and AI at Naresh IT.
-- 📹  I enjoy editing videos 
-- ⚡ Fun fact: I love drawing in my free time!
+## 💼 About Me
+I am an aspiring Software Developer with a strong interest in Java backend development, Python, Data Science, and AI. I focus on building practical projects to improve my problem-solving skills and technical knowledge.
 
-### Skills
-- **Programming Languages:** Python, HTML, JavaScript, C
-- **Frameworks:** Django
-- **Other Skills:** Data Structures, Version Control (Git)
+---
 
-### Projects
-- **[Fake Profile Identification In Social Media](https://github.com/Sirisha-Manchala19/social-networking-security-system):** A project aimed at improving security and privacy on social networking platforms using Python and Django.
-- **Video Editing:** Created and edited several videos for my YouTube channel, enhancing my skills in video production and content creation.
+## 🚀 What I'm Currently Doing
+- Learning Full Stack Java (Core Java, JDBC, backend fundamentals)
+- Building real-world projects for hands-on experience
+
+---
+
+## 🛠️ Skills
+
+**Programming Languages:**  
+Java (Core, JDBC), Python, C  
+
+**Web Technologies:**  
+HTML, CSS, JavaScript  
+
+**Database:**  
+MySQL  
+
+**Tools:**  
+Git, GitHub, Eclipse, VS Code  
+
+**Concepts:**  
+OOP, Data Structures (Basics), Machine Learning Fundamentals  
+
+---
+
+## 📂 Projects
+
+### 🔹 Smart Account Management System (Java) ⭐
+- Developed a Java-based application to manage user account details efficiently  
+- Implemented CRUD operations using Java and MySQL  
+- Used JDBC for database connectivity  
+- Applied Object-Oriented Programming concepts for structured design 
+
+ ---
+ 
+### 🔹 Fake Profile Detection System
+- Developed using Python, Machine Learning, and NLP  
+- Performed data preprocessing and feature extraction  
+- Built a classification model to detect fake profiles  
+
+---
+
+### 🔹 Student Management System (Java)
+- Developed a CRUD-based application using Java and MySQL  
+- Implemented database connectivity using JDBC  
+- Performed insert, update, delete, and retrieval operations  
+
+---
+
+### 🔹 Cloud Internship Project
+- Completed during B.Tech as part of academic curriculum  
+- Learned cloud fundamentals and deployment concepts  
+
+---
 
 ### Get in touch!
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - 📧 Email: sirishamanchala1@gmail.com
+
+---
+
+## ⚡ Fun Fact
+I enjoy video editing and drawing in my free time.
+
