@@ -37,13 +37,22 @@ OOP, Data Structures (Basics), Machine Learning Fundamentals
 ---
 
 ## 📂 Projects
+### 🔹 Bank Account Management System (Java) ⭐
+- Developed a console-based banking application using Java and MySQL  
+- Implemented features such as account creation, deposit, withdrawal, and balance inquiry  
+- Applied business logic to handle transactions and ensure valid operations  
+- Used JDBC for database connectivity and data management  
+- Designed using Object-Oriented Programming principles
 
-### 🔹 Smart Account Management System (Java) ⭐
-- Developed a Java-based application to manage user account details efficiently  
-- Implemented CRUD operations using Java and MySQL  
-- Used JDBC for database connectivity  
-- Applied Object-Oriented Programming concepts for structured design 
+ ---
 
+ ### 🔹 Smart Account Management System (Java)
+- Developed a basic account management application using Java and MySQL  
+- Implemented CRUD operations for storing and retrieving account details  
+- Used JDBC for connecting Java application with database  
+- Built to understand database integration and basic backend logic
+
+  
  ---
  
 ### 🔹 Fake Profile Detection System
