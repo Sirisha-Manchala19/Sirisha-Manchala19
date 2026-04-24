@@ -70,7 +70,8 @@ OOP, Data Structures (Basics), Machine Learning Fundamentals
 ---
 
 ## 📫 Get in Touch
-💼 LinkedIn: ADD YOUR LINK  
+💼 LinkedIn: www.linkedin.com/in/sirisha-manchala-38b781285
+  
 📧 Email: sirishamanchala1@gmail.com  
 
 ---
