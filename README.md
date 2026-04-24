@@ -4,13 +4,16 @@
 📍 Hyderabad, India  
 
 ## 💼 About Me
-I am an aspiring Software Developer with a strong interest in Java backend development, Python, Data Science, and AI. I focus on building practical projects to improve my problem-solving skills and technical knowledge.
+I am an aspiring Java Backend Developer with hands-on experience in building database-driven applications using Core Java and JDBC. I also have experience in Python, Machine Learning, and web technologies. I am currently working at Speshway Solutions Private Limited, where I am gaining practical experience in Full Stack Java development.
 
 ---
+## 🚀 Experience
 
-## 🚀 What I'm Currently Doing
-- Learning Full Stack Java (Core Java, JDBC, backend fundamentals)
-- Building real-world projects for hands-on experience
+### 💻 Associate Software Engineer (Trainee)  
+**Speshway Solutions Private Limited**  
+- Undergoing training in Full Stack Java development  
+- Learning Core Java, JDBC, and backend development concepts  
+- Working on improving problem-solving and coding skills  
 
 ---
 
@@ -64,7 +67,7 @@ OOP, Data Structures (Basics), Machine Learning Fundamentals
 ---
 
 ### Get in touch!
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 💼 [LinkedIn](www.linkedin.com/in/sirisha-manchala-38b781285)
 - 📧 Email: sirishamanchala1@gmail.com
 
 ---
